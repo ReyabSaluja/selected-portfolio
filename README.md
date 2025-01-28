@@ -22,8 +22,8 @@ Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visual
 - **Skills**: Advanced Excel Charting, Dynamic Arrays, Formulas, Dashboard Design  
 - **Impact**: Automated data aggregation and charting, reducing manual effort.  
 - **Portfolio Highlights**:  
-  - [US Music Revenues Dashboard](https://onedrive.live.com/personal/fc9749ad90b11dba/_layouts/15/Doc.aspx?sourcedoc=%7B1c2c4bf3-ae24-45db-a7a0-65fb15e66329%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mYzk3NDlhZDkwYjExZGJhL0VmTkxMQndrcnR0RnA2QmwteFhtWXlrQllCRTlUc3A0UXQyX1lycE91ZEZLY3c_ZT1lak5oWmg&slrid=00000000-0000-0000-0000-000000000000&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mYzk3NDlhZDkwYjExZGJhL0VmTkxMQndrcnR0RnA2QmwteFhtWXlrQllCRTlUc3A0UXQyX1lycE91ZEZLY3c_cnRpbWU9VFFRNUdqNF8zVWc&CID=05610b0c-6118-43e3-856a-e4ad71666b2c&_SRM=0:G:53), [Screenshot] (https://photos.onedrive.com/share/FC9749AD90B11DBA!s9d087e010972486bb3b63e313295c7b7?cid=FC9749AD90B11DBA&resId=FC9749AD90B11DBA!s9d087e010972486bb3b63e313295c7b7&ithint=photo&e=VOEIBZ&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9mYzk3NDlhZDkwYjExZGJhL0VRRi1DSjF5Q1d0SXM3WS1NVEtWeDdjQkprSlJuX1Q5ekx5OFdDbVpNN1Utb1E_ZT1WT0VJQlo)  
-  - [US Labor Statistics Dashboard](#)  
+  - [US Music Revenues Dashboard](https://onedrive.live.com/personal/fc9749ad90b11dba/_layouts/15/Doc.aspx?sourcedoc=%7B1c2c4bf3-ae24-45db-a7a0-65fb15e66329%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mYzk3NDlhZDkwYjExZGJhL0VmTkxMQndrcnR0RnA2QmwteFhtWXlrQllCRTlUc3A0UXQyX1lycE91ZEZLY3c_ZT1lak5oWmg&slrid=00000000-0000-0000-0000-000000000000&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mYzk3NDlhZDkwYjExZGJhL0VmTkxMQndrcnR0RnA2QmwteFhtWXlrQllCRTlUc3A0UXQyX1lycE91ZEZLY3c_cnRpbWU9VFFRNUdqNF8zVWc&CID=05610b0c-6118-43e3-856a-e4ad71666b2c&_SRM=0:G:53),
+  - [US Labor Statistics Dashboard](https://onedrive.live.com/:x:/g/personal/FC9749AD90B11DBA/EdrTZuLhHmVIrk4TVjSnWWwBVFYFFcceQbyvJqvtENYuLA?resid=FC9749AD90B11DBA!se266d3da1ee14865ae4e135634a7596c&ithint=file%2Cxlsx&e=s1zV2d&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mYzk3NDlhZDkwYjExZGJhL0VkclRadUxoSG1WSXJrNFRWalNuV1d3QlZGWUZGY2NlUWJ5dkpxdnRFTll1TEE_ZT1zMXpWMmQ)  
 
 ---
 
@@ -40,7 +40,7 @@ Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visual
 - **Tools**: Python (Pandas, NumPy, Openpyxl)  
 - **Impact**: Built automation scripts to accelerate data analysis.  
 - **Portfolio Highlights**:  
-  - [Ski Shop Analysis](#)
+  - [Ski Shop Analysis](https://onedrive.live.com/?cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21sf18e36f8ee7e4afab8f35174c6d1f4bc&parId=FC9749AD90B11DBA%21294&o=OneUp)
 
 ---
 
