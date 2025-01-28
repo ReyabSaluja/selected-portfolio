@@ -69,7 +69,7 @@ Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visual
 - **Skills**: Stocks and Flows, Dynamic Modeling  
 - **Impact**: Visualized long-term trends and scenarios.  
 - **Portfolio Highlights**:  
-  - [System Dynamics: Chicken and Egg Problem](#)
+  - [System Dynamics: Chicken and Egg Problem](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VaZEo1cHM3eXdWS2xJTVhUX0p3eW9BQjJmMlVnX2cySC1fLWtuUERmNE0ydmc%5FZT15VDBpN3M&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21s9be64997cb3b4a059483174ff270ca80&parId=FC9749AD90B11DBA%21296&o=OneUp)
 
 ---
 
@@ -78,8 +78,11 @@ Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visual
 - **Skills**: Descriptive & Inferential Statistics, Regression, Forecasting  
 - **Impact**: Improved forecast accuracy with actionable insights.  
 - **Portfolio Highlights**:  
-  - [Descriptive Statistics and Histograms](#)  
-  - [Regression Modeling](#)
+  - [Descriptive Statistics and Histograms](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VUV0dRNzJUbVBaRWg5V25YMHVTNWlVQklWWC1PSExMcnItQllVR0JyNXlNX0E%5FZT1rRWFXeFg&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21sbd438635989344f687d5a75f4b92e625&parId=FC9749AD90B11DBA%21266&o=OneUp)
+  - [Regression Modeling](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VVVVNoNmU2U3N4Tm5vZjBTdnhmcVA0QngxTGozLTh6ZE1yUWpIeVNVZ2ptMWc%5FZT14bWtqbTA&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21sa78712454aba4dcc9e87f44afc5fa8fe&parId=FC9749AD90B11DBA%21272&o=OneUp)
+  - [Normal Distribution Functions](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VZbWlxTW1mUUQ5T20zYm8xUVFienpnQnJfaGMxUHVDdFFhazh2YTNuR1pxWHc%5FZT1nRk8wOFA&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21sc9a8a289409f4e3f9b76e8d5041bcf38&parId=FC9749AD90B11DBA%21268&o=OneUp)
+  - [Inferential Statistics](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VlMkRuNjU4Zm1KSHNLVkEtS0tSUUwwQlUtX0FfdTA0bUd5WXowa2lJeFN1SlE%5FZT0yU1hwYm8&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21sae9f83ed7e7c4762b0a540f8a29140bd&parId=FC9749AD90B11DBA%21269&o=OneUp)
+  - [Hypothesis Test & T-Statistic](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VkRHotVWZ2dkdsRnJ1VWhxMF9CZDNNQkF4NEpBdDR5NjMyTF92UFFkQjRxZHc%5FZT1jOFZWR0k&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21s47f9f3d0bcef4569aee521ab4fc17773&parId=FC9749AD90B11DBA%21271&o=OneUp)
 
 ---
 
@@ -88,8 +91,8 @@ Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visual
 - **Skills**: Automating tasks, creating dashboards, backlog grooming  
 - **Impact**: Enhanced team productivity and on-time milestone delivery.  
 - **Portfolio Highlights**:  
-  - [Smartsheet Dashboard – Work Order Request Form](#)  
-  - [Jira – Sprint Backlog Management](#)
+  - [Smartsheet Dashboard](https://photos.onedrive.com/share/FC9749AD90B11DBA!s3444129e7a5b42eda414cddfeef92b71?cid=FC9749AD90B11DBA&resId=FC9749AD90B11DBA!s3444129e7a5b42eda414cddfeef92b71&ithint=photo&e=n9vFwm&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9mYzk3NDlhZDkwYjExZGJhL0VaNFNSRFJiZXUxQ3BCVE4zLTc1SzNFQjhlTnF1YjlzUDFGLXhpZU9XNzVWM3c_ZT1uOXZGd20), [Work Order Request Form](https://photos.onedrive.com/share/FC9749AD90B11DBA!sb81e41fb3d26410da5f51401ffddba86?cid=FC9749AD90B11DBA&resId=FC9749AD90B11DBA!sb81e41fb3d26410da5f51401ffddba86&ithint=photo&e=cXhkvb&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9mYzk3NDlhZDkwYjExZGJhL0VmdEJIcmdtUFExQnBmVVVBZl9kdW9ZQmdYbHRNN0VVcHUydVQ0dXRBRjNkaHc_ZT1jWGhrdmI) 
+  - [Jira – Sprint Backlog Management](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VTbmVRMkJjeC01SmtsX3h2eDIzMDNJQkRoRlZyaDVRVG9ob2t2NVFxX1Z4LUE%5FZT16elZwSUw&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21s6043de29c75c49ee925ff1bf1db7d372&parId=FC9749AD90B11DBA%21275&o=OneUp)
 
 ---
 
@@ -98,8 +101,8 @@ Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visual
 - **Skills**: Apex triggers, SOQL, workflow automation  
 - **Impact**: Reduced response times and errors through automation.  
 - **Portfolio Highlights**:  
-  - [Custom Opportunity Cloning – Salesforce Trigger Flow](#)  
-  - [Zapier Automation Pipelines](#)
+  - [Custom Opportunity Cloning – Salesforce Trigger Flow](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VYYUFVUUItcC1kQnY4cnM2OWZmdTZRQnQxaGxpX0UtaDlfYXJXenYzVUlMVmc%5FZT1LWmtnbWk&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21s00518076a77e41e7bfcaecebd7dfbba4&parId=FC9749AD90B11DBA%21s554da66f992541e19fcaa7cc2289986e&o=OneUp)  
+  - [Zapier Automation Pipelines](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3QvYy9mYzk3NDlhZDkwYjExZGJhL0VWV09ZMVZBNmE5QXRJS0VUTUpjb3NJQkNDUkJWWndiWWNuR0hqQWd2WEp4NEE%5FZT1DV1B5RFJ0IEZhY3RvciBmcm9tIEN1c3RvbSBNZXRhZGF0YSAyMDI0IDEyIDI0&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21s55638e55e94040afb482844cc25ca2c2&parId=FC9749AD90B11DBA%21s58122d23acaf48419ff93a529888d3aa&o=OneUp)
 
 ---
 
@@ -108,7 +111,7 @@ Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visual
 - **Skills**: Wireframes, UML Diagrams, BPMN Diagrams, ERDs  
 - **Impact**: Streamlined workflows and improved interface designs.  
 - **Portfolio Highlights**:  
-  - [Procurement Flowchart – Miro](#)  
+  - [Procurement Flowchart – Miro](https://photos.onedrive.com/share/FC9749AD90B11DBA!sac863742ea1c4909aa6d7a8fe7b2f6c7?cid=FC9749AD90B11DBA&resId=FC9749AD90B11DBA!sac863742ea1c4909aa6d7a8fe7b2f6c7&ithint=photo&e=ADhznJ&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9mYzk3NDlhZDkwYjExZGJhL0VVSTNocXdjNmdsSnFtMTZqLWV5OXNjQmVDOFN4TEkwckZXbVVMeUVyTjlTSVE_ZT1BRGh6bko)  
   - [Entity Relationship Diagram – Visual Paradigm](#)  
   - [Order Processing BPMN Diagram](#)
 
