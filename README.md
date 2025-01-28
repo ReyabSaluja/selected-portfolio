@@ -32,7 +32,7 @@ Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visual
 - **Skills**: ETL, Data Cleansing, Web API Integration (XML to JSON), Data Enrichment  
 - **Impact**: Reduced data errors by over 30% through standardization and cleansing.  
 - **Portfolio Highlights**:  
-  - [Transaction Analysis ETL and Data Modeling in Knime and Power BI](#)
+  - [Transaction Analysis ETL and Data Modeling in Knime and Power BI](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VmVDBUQlAxZW9CRHJuMFYyc3R0WVFFQjYxM0d6ZERmLUc2d1F1a0xPUWF0V3c%5FZT1DWnY0Tlk&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21s134cf4f47af54380ae7d15dacb6d6101&parId=FC9749AD90B11DBA%21402&o=OneUp)
 
 ---
 
@@ -49,8 +49,8 @@ Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visual
 - **Techniques**: Random Forest, Naïve Bayes, Logistic Regression  
 - **Impact**: Enhanced prediction accuracy with machine learning models.  
 - **Portfolio Highlights**:  
-  - [Orange Workflow – Machine Learning](#)  
-  - [Knime Workflow – Random Forest Prediction](#)
+  - [Orange Workflow – Machine Learning](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VSbGtTTUJ1Q2pkQ3Z4MHo5elByOXJRQmtTSEoydXNLSkVJdUFRcFdCRDVFY0E%5FZT0wSG90cW4&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21sc04864190a6e4237bf1d33f733ebf6b4&parId=FC9749AD90B11DBA%21634&o=OneUp)  
+  - [Knime Workflow – Random Forest Prediction](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzk3NDlhZDkwYjExZGJhL0VaWnloVGJfSlp0RGwxWWZIUHhBLVg4Qk5YTFpWMGowZy13Ukw2amthYi0ydUE%5FZT0wSDdSRTE&cid=FC9749AD90B11DBA&id=FC9749AD90B11DBA%21s3685729625ff439b97561f1cfc40f97f&parId=FC9749AD90B11DBA%21409&o=OneUp), [Random Forest Dataset](https://onedrive.live.com/:x:/g/personal/FC9749AD90B11DBA/ESWvB3XVXNdPpRQj0V9YDyIBAJVAC-N7zD1sZFuLxyIbjQ?resid=FC9749AD90B11DBA!s7507af255cd54fd7a51423d15f580f22&ithint=file%2Cxlsx&e=OBrwbc&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mYzk3NDlhZDkwYjExZGJhL0VTV3ZCM1hWWE5kUHBSUWowVjlZRHlJQkFKVkFDLU43ekQxc1pGdUx4eUlialE_ZT1PQnJ3YmM)
 
 ---
 
