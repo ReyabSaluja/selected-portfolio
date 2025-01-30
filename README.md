@@ -3,7 +3,7 @@
 Welcome to my portfolio! I am Reyab Saluja, a dedicated data analysis and visualization professional with a wide range of skills in analytics, data preparation, automation, and business analysis. My portfolio showcases my expertise across various tools and techniques, highlighting impactful projects that have driven efficiency and insights.
 
 ## Contact Information:
-📧 **E-mail**: [reyab.saluja@utoronto.ca](mailto:reyab.saluja@utoronto.ca)
+📧 **E-mail**: [reyab.saluja@mail.utoronto.ca](mailto:reyab.saluja@mail.utoronto.ca)
 
 ---
 
